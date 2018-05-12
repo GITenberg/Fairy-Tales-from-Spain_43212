@@ -1,0 +1,38 @@
+_repo: Fairy-Tales-from-Spain_43212
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Matthews, William
+    gutenberg_agent_id: '42071'
+    url: http://www.gutenberg.org/2009/agents/42071
+covers:
+- cover_type: archival
+  image_path: 43212-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Muñoz Escámez, José
+    aliases:
+    - Escámez, José Muñoz
+    - Escamez, Jose Munoz
+    gutenberg_agent_id: '42070'
+    url: http://www.gutenberg.org/2009/agents/42070
+description: ''
+gutenberg_issued: '2013-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Khing-Chu-Fu -- The City of Fortune -- The Garden of Health -- Carabi!
+  Carabo! -- The author of the wall -- The devil's tournament -- The treasure of the
+  dragon -- The man with the two faces -- The treachery of Micifuf -- Trompetilla
+  and Trompetin -- The quack doctor -- The drawing school -- The man with the nose
+  -- The Island of Brilliants -- The judgment of the flowers -- The three questions
+  -- The captain's exploit -- The topsy-turvy world -- Don Suero the Proud.
+title: Fairy Tales from Spain
+url: http://www.gutenberg.org/ebooks/43212
